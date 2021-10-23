@@ -1,3 +1,16 @@
+# Headline
+
+> An project.
+
+Hello Deep Learning!!!
+
+[>>操作指南](guide.md)
+
+
+
+# 水很深的深度学习
+Unusual Deep learning
+
 #### 项目初衷
 
 近些年，以机器学习为代表的人工智能技术逐渐被大家认识并在很多方面得到普及，深度学习技术在学术界和工业界取得了广泛的成功，受到高度重视，并掀起新一轮的人工智能热潮。我们希望通过组队学习的方式，让大家更清楚的了解深度学习的理论。
@@ -80,6 +93,7 @@
 
 
 
+
 1. 深度学习常见的平台
    1. Tensorflow
    2. PyTorch
@@ -122,28 +136,26 @@
 - 神经网络学习Wasserstein空间的测地线
 - 生成模型
 
+
+
 #### 人员安排
 
-| 成员   | 个人简介                                            | 个人主页 |
-| ------ | --------------------------------------------------- | -------- |
-| 刘洋   | DataWhale成员，中国科学院数学与系统科学研究院研究生 |          |
-| 李嘉骐 | DataWhale成员，清华大学自动化系研究生               |          |
+| 成员 | 个人简介                                            | 个人主页                                                     |
+| ---- | --------------------------------------------------- | ------------------------------------------------------------ |
+| 刘洋 | DataWhale成员，中国科学院数学与系统科学研究院研究生 | https://www.zhihu.com/people/ming-ren-19-34，公众号：鸣也的小屋 |
 
 #### 其他
 
 
 
+## 关注我们
+<div align=center>
+<p>扫描下方二维码关注公众号：Datawhale，然后回复关键词“南瓜书”，即可加入“南瓜书读者交流群”</p>
+<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
+</div>
 
-
-
-
-
-
-
-
-
-
-
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 
 
